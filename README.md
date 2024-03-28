@@ -5,7 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andreygomesbr/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rk6aar3yw7beafte3h7mxm12l?si=2a4847de0ca442e8)
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncobain&show_icons=true&theme=tokyonight)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johncobain&show_icons=true&theme=tokyonight" alt="Andrey Gomes's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncobain&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
+</div>
 
 ## Tecnologias que utilizo no meu dia
 <div style="display:inline_block"><br>
@@ -15,7 +18,6 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncobain&size_weight=0.5&count_weight=0.5)
 
 ## Cursando Análise e Desenvolvimento de Sistemas no IFBA
 #### Apaixonado por tecnologia e sempre em busca de novas inspirações ❤️
