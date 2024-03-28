@@ -21,5 +21,3 @@
 
 ## Cursando Análise e Desenvolvimento de Sistemas no IFBA
 #### Apaixonado por tecnologia e sempre em busca de novas inspirações ❤️
-
-![snake gif](https://github.com/johncobain/johncobain/blob/output/github-contribution-grid-snake.svg)
