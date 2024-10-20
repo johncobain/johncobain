@@ -21,5 +21,7 @@
 </div><br>
 
 
-## Cursando Análise e Desenvolvimento de Sistemas no IFBA
 #### Apaixonado por tecnologia e sempre em busca de novas inspirações ❤️
+📖 Cursoando Análise e Desenvolvimento de Sistemas no  IFBA. 
+<br/>
+📧 E-mail: gomes.andrey.dev@gmail.com.
