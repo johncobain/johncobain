@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreygomes.js/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rk6aar3yw7beafte3h7mxm12l?si=2a4847de0ca442e8)
 
-![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncobain&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=johncobain&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🛠 Tech Stack
 <div style="display:inline_block"><br>
