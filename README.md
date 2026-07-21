@@ -2,7 +2,6 @@
 ## Hello, World! Eu sou 🔥Andrey Gomes🔥
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-gomes-8b18741a5/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreygomes.js/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rk6aar3yw7beafte3h7mxm12l?si=2a4847de0ca442e8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=johncobain&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
